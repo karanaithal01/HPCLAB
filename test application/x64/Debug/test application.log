@@ -1,0 +1,3 @@
+﻿  test application.cpp
+F:\7th Semester\HPC-Lab\test application\test application.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  test application.vcxproj -> F:\7th Semester\HPC-Lab\test application\x64\Debug\test application.exe

@@ -1,0 +1,3 @@
+﻿  HPC_3(Critical).cpp
+F:\7th Semester\HPC-Lab\HPC_3(Critical)\HPC_3(Critical).cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HPC_3(Critical).vcxproj -> F:\7th Semester\HPC-Lab\HPC_3(Critical)\x64\Debug\HPC_3(Critical).exe

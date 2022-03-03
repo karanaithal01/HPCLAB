@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "68fc9430-16a4-4177-8151-90c3c8250e8e": {
+      "ProjectGuid": "68fc9430-16a4-4177-8151-90c3c8250e8e",
+      "DisplayName": "HPC_3(Critical)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  HPC_10(MPI).cpp
+F:\7th Semester\HPC-Lab\HPC_10(MPI)\HPC_10(MPI).cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HPC_10(MPI).vcxproj -> F:\7th Semester\HPC-Lab\HPC_10(MPI)\Debug\HPC_10(MPI).exe

@@ -1,0 +1,32 @@
+﻿  HPC-1.cpp
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(15,41): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(15,41): warning C4302: 'type cast': truncation from 'void *' to 'int'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(15,41): error C2440: 'initializing': cannot convert from 'int' to 'int *'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(15,11): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(16,40): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(16,40): warning C4302: 'type cast': truncation from 'void *' to 'int'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(17,40): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(17,40): warning C4302: 'type cast': truncation from 'void *' to 'int'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(24,42): error C2440: '=': cannot convert from 'int *' to 'int'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(24,25): message : There is no context in which this conversion is possible
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(25,9): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(27,13): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(34,9): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(36,10): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(36,23): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(36,32): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(42,27): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(42,11): warning C4473: 'printf' : not enough arguments passed for format string
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(42,11): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(42,11): message : the missing variadic argument 1 is required by format string '%3d'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(44,37): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(44,45): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(44,11): warning C4473: 'printf' : not enough arguments passed for format string
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(44,11): message : placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(44,11): message : the missing variadic argument 1 is required by format string '%3d'
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(46,37): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(46,45): error C2109: subscript requires array or pointer type
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(46,11): warning C4473: 'printf' : not enough arguments passed for format string
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(46,11): message : placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+F:\7th Semester\HPC-Lab\HPC-1\HPC-1.cpp(46,11): message : the missing variadic argument 1 is required by format string '%3d'

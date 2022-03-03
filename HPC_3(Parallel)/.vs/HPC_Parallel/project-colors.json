@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3ce7692-6019-4eaa-accb-2974361e4e48": {
+      "ProjectGuid": "b3ce7692-6019-4eaa-accb-2974361e4e48",
+      "DisplayName": "HPC_Parallel",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

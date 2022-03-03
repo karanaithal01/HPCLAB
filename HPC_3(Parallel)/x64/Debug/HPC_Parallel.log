@@ -1,0 +1,4 @@
+﻿  HPC_Parallel.cpp
+F:\7th Semester\HPC-Lab\HPC_Parallel\HPC_Parallel.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\7th Semester\HPC-Lab\HPC_Parallel\HPC_Parallel.cpp(14,25): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  HPC_Parallel.vcxproj -> F:\7th Semester\HPC-Lab\HPC_Parallel\x64\Debug\HPC_Parallel.exe

@@ -1,0 +1,4 @@
+﻿  HPC_9(MPI).cpp
+F:\7th Semester\HPC-Lab\HPC_9(MPI)\HPC_9(MPI).cpp(7,26): warning C4101: 'count': unreferenced local variable
+F:\7th Semester\HPC-Lab\HPC_9(MPI)\HPC_9(MPI).cpp(32,13): warning C4101: 'stats': unreferenced local variable
+  HPC_9(MPI).vcxproj -> F:\7th Semester\HPC-Lab\HPC_9(MPI)\Debug\HPC_9(MPI).exe

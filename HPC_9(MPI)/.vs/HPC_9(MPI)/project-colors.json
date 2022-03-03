@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1869295-7e60-49fb-a0ed-837c883a0e77": {
+      "ProjectGuid": "d1869295-7e60-49fb-a0ed-837c883a0e77",
+      "DisplayName": "HPC_9(MPI)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7d4fc0d1-266f-4ca3-9fdd-4713a350e16a": {
+      "ProjectGuid": "7d4fc0d1-266f-4ca3-9fdd-4713a350e16a",
+      "DisplayName": "HPC_6 (MPI)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
